@@ -1,0 +1,2 @@
+# code-comment
+An open-source web-app project for the ease of developers to comment on their code in the most efficient and clean manner. The idea of this repo is to create a web-app for developers where they can use flow charts in form of code comment. The inspiration of this project came from Apple's open source project in-code documentation. This readme file will be updated on regular interval depending upon the progress of the repo.
